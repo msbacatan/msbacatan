@@ -7,8 +7,7 @@ Pronouns: she/her/hers
 
 [LinkedIn](https://www.linkedin.com/in/emily-bacatan/)
 
-> "Technology is the art of arranging the world so we do not notice it."
->> - my fortune cookie from Best China
+> Technology is the art of arranging the world so we do not notice it.
 
 <!--
 **msbacatan/msbacatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
