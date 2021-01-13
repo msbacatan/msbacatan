@@ -4,13 +4,8 @@
 ## Tippie College of Business, The University of Iowa
 ### Primary Program of Study: Information Systems
 Pronouns: she/her/hers
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emily-bacatan/)
-
-[LinkedIn](https://www.linkedin.com/in/emily-bacatan/)
-
-![picture](https://www.linkedin.com/nav_logo)
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=msbacatan&theme=blue-green)
 
 > ***Technology is the art of arranging the world so we do not notice it.***
 
