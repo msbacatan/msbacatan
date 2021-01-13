@@ -1,8 +1,8 @@
 # Emily Bacatan
  - - - - 
 ## Bachelor of Business Administration in Business Analytics & Information Systems
-## Tippie College of Business, The University of Iowa
-### Primary Program of Study: Information Systems
+### Tippie College of Business, The University of Iowa
+#### Primary Program of Study: Information Systems
 Pronouns: she/her/hers
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) emily-bacatan](https://www.linkedin.com/in/emily-bacatan/)
