@@ -1,13 +1,13 @@
 # Emily Bacatan
  - - - - 
-## Bachelor of Business Administration in Business Analytics and Information Systems
+## Bachelor of Business Administration in Business Analytics & Information Systems
 ## Tippie College of Business, The University of Iowa
-### Program of Study: Information Systems
+### Primary Program of Study: Information Systems
 Pronouns: she/her/hers
 
 [LinkedIn](https://www.linkedin.com/in/emily-bacatan/)
 
-
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
 
 > Technology is the art of arranging the world so we do not notice it.
 
