@@ -7,7 +7,7 @@ Pronouns: she/her/hers
 
 [LinkedIn](https://www.linkedin.com/in/emily-bacatan/)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=msbacatan&theme=blue-green)
 
 > Technology is the art of arranging the world so we do not notice it.
 
