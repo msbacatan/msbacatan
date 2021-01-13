@@ -4,12 +4,11 @@
 ## Tippie College of Business, The University of Iowa
 ### Primary Program of Study: Information Systems
 Pronouns: she/her/hers
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emily-bacatan/)
 
 [LinkedIn](https://www.linkedin.com/in/emily-bacatan/)
 
 ![picture](https://www.linkedin.com/nav_logo)
-
-![Alt text](http://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=msbacatan&theme=blue-green)
 
