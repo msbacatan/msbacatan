@@ -10,7 +10,7 @@ Pronouns: she/her/hers
 > ***Technology is the art of arranging the world so we do not notice it.***
 
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com/msbacatan/)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/msbacatan?tab=repositories)
 
 <!--
 **msbacatan/msbacatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
