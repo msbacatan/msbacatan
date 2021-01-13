@@ -8,15 +8,21 @@ Pronouns: she/her/hers
 [LinkedIn](https://www.linkedin.com/in/emily-bacatan/)
 
 `still_alive = true;
+
  while (still_alive) {
+ 
     WearMask();
+    
     SocialDistance();
+    
     WashHands();
+    
     GetVaccinated();
+    
 }`
 
 > "Technology is the art of arranging the world so we do not notice it."
-          >> - my fortune cookie from Best China
+>> - my fortune cookie from Best China
 
 <!--
 **msbacatan/msbacatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
