@@ -9,6 +9,7 @@ Pronouns: she/her/hers
 
 ![picture](https://www.linkedin.com/nav_logo)
 
+![Alt text](http://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=msbacatan&theme=blue-green)
 
