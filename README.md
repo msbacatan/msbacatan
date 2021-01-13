@@ -7,6 +7,10 @@ Pronouns: she/her/hers
 
 [LinkedIn](https://www.linkedin.com/in/emily-bacatan/)
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="emily-bacatan"><a class="LI-simple-link" href='https://www.linkedin.com/in/emily-bacatan?trk=profile-badge'>Emily Bacatan</a></div>
+
 > Technology is the art of arranging the world so we do not notice it.
 
 <!--
