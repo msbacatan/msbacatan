@@ -1,4 +1,10 @@
-### Hi there 👋
+# Emily Bacatan
+## Business Analytics and Information Systems BBA
+## Tippie College of Business, The University of Iowa
+### Program of Study: Information Systems
+Pronouns: she/her/hers
+
+[LinkedIn](https://www.linkedin.com/in/emily-bacatan/)
 
 <!--
 **msbacatan/msbacatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
