@@ -7,7 +7,7 @@ Pronouns: she/her/hers
 
 [LinkedIn](https://www.linkedin.com/in/emily-bacatan/)
 
-![picture](https://www.flaticon.com/free-icon/linkedin_174857)
+![picture](https://www.linkedin.com/nav_logo)
 
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=msbacatan&theme=blue-green)
