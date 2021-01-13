@@ -7,9 +7,13 @@ Pronouns: she/her/hers
 
 [LinkedIn](https://www.linkedin.com/in/emily-bacatan/)
 
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
+
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=msbacatan&theme=blue-green)
 
 > Technology is the art of arranging the world so we do not notice it.
+
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com/msbacatan/)
 
 <!--
 **msbacatan/msbacatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
