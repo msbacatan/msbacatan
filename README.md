@@ -1,6 +1,6 @@
 # Emily Bacatan
  - - - - 
-## Bachelor of Business Administration in Business Analytics & Information Systems
+## Business Analytics & Information Systems, B.B.A.
 ### Tippie College of Business, The University of Iowa
 #### Primary Program of Study: Information Systems
 Pronouns: she/her/hers
