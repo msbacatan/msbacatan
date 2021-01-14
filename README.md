@@ -8,6 +8,7 @@ Pronouns: she/her/hers
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) emily-bacatan](https://www.linkedin.com/in/emily-bacatan/)
 
 > ***Technology is the art of arranging the world so we do not notice it.***
+
 > [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/msbacatan?tab=repositories)
 
 <!--
