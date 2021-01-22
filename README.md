@@ -9,7 +9,7 @@ Pronouns: she/her/hers
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) emily-bacatan](https://www.linkedin.com/in/emily-bacatan/)
 
 
-![Email](https://glyphicons.com/img/glyphicons/halflings/2x/glyphicons-halflings-3-envelope@2x.png) emily.bacatan@gmail.com
+[![Email](https://glyphicons.com/img/glyphicons/halflings/2x/glyphicons-halflings-3-envelope@2x.png) emily.bacatan@gmail.com](mailto:emily.bacatan@gmail.com)
 
 
 
