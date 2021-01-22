@@ -9,7 +9,9 @@ Pronouns: she/her/hers
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) emily-bacatan](https://www.linkedin.com/in/emily-bacatan/)
 
 
-:email: emily.bacatan@gmail.com
+![Email](https://glyphicons.com/img/glyphicons/basic/2x/glyphicons-basic-11-envelope@2x.png) emily.bacatan@gmail.com
+
+
 
 
 > ***Technology is the art of arranging the world so we do not notice it.***
