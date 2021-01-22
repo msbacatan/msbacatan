@@ -7,6 +7,8 @@ Pronouns: she/her/hers
 
 ##### Connect: #####
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) emily-bacatan](https://www.linkedin.com/in/emily-bacatan/)
+
+
 :email: emily.bacatan@gmail.com
 
 
