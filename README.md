@@ -11,6 +11,8 @@ Pronouns: she/her/hers
 
 
 
+
+
 > ***Technology is the art of arranging the world so we do not notice it.***
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/msbacatan?tab=repositories)
