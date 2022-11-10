@@ -1,6 +1,6 @@
 # Emily Bacatan Anderson #
  - - - - 
-## Master of Science Business Analytics - expected Aug '24 ##
+### Master of Science Business Analytics - **expected Aug '24** ###
 ### B.B.A. in Business Analytics & Information Systems ###
 ### Tippie College of Business, The University of Iowa ###
 #### Primary Program of Study: Information Systems ####
