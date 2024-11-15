@@ -1,7 +1,7 @@
 # Emily Bacatan Anderson #
  - - - - 
-### Master of Science Business Analytics ###
-### B.B.A. in Business Analytics & Information Systems ###
+## Master of Science Business Analytics ##
+## B.B.A. in Business Analytics & Information Systems ##
 ### Tippie College of Business, The University of Iowa ###
 #### Primary Program of Study: Information Systems ####
 Pronouns: she/her/hers
